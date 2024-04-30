@@ -1,0 +1,38 @@
+"""
+Format variable tasks :
+
+{
+    "tasks": {
+        "task_name": {
+            "name": "task_name",
+            "description": "description",
+            "points": 20,
+            "roles_allowed": ["scripter", "builder"],
+            "max_users_count": 1 - 100,
+            "made_by": ID_UTILISATEUR
+        }
+    },
+
+    "tasks_confirm_channel": 0,
+    "tasks_logs_channel": 0,
+    "current_income": 800,
+    "bot_status": "PowGames Task Manager",
+
+    "users_profil": {
+        "user_id": {
+            "current_tasks": [],
+            "current_points": 0,
+            "current_roles": ["scripter", "modeler", "animator", "builder", "vfx", "sfx", "graphic_designer", "discord_staff", "others"],
+            "max_tasks": 1 - 25
+        }
+    }
+}
+
+ps : task_name sera aussi utilisé comme id
+
+info :
+
+name entre 3 et 30 caractères.
+description entre 3 et 1500 caractères.
+points entre 5 et 50
+"""
