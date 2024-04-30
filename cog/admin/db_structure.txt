@@ -32,7 +32,7 @@ ps : task_name sera aussi utilisé comme id
 
 info :
 
-name entre 3 et 30 caractères.
-description entre 3 et 1500 caractères.
-points entre 5 et 50
+name entre 3 et 25 caractères.
+description entre 3 et 1250 caractères.
+points entre 1 et 1000
 """
