@@ -8,7 +8,7 @@ Conçu pour gérer un de mes projets de développement roblox studio, ce bot a �
 
 ## À savoir
 - Développeur : senkoo.g4l (discord) / ce compte github.
-- C'est une version BÊTA, donc n'est pas 100% sûre (surtout au niveau de la base de donnée json).
+- C'est une version BÊTA, donc n'a pas été concrètement testé ET donc n'est PAS 100% sûre (surtout au niveau de la base de donnée json).
 - Ce bot n'est pas fait pour être sur plusieurs serveurs discord en même temps.
 
 ## Requirements
