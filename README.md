@@ -1,11 +1,15 @@
 # PowGames - Task Manager V. 0.0.0
 
 ## Utilitées
-Conçu pour gérer un de mes projets de développement roblox studio, ce bot a été développé pour permettre une gestion efficace de plusieurs aspects dans mon projet tels que
-- La sauvegarde des tâches.
-- La gestion des tâches de manière efficace.
+Conçu pour gérer un de mes projets de développement roblox studio, ce bot a été développé pour permettre une gestion simple et efficace de plusieurs aspects dans mon projet tels que
+- La gestion des tâches.
 - La gestion des revenus (ici, en robux) selon les points d'un utilisateur.
-- La gestion des utilisateurs de manière simple et efficace.
+- La gestion des utilisateur.
+
+## À savoir
+- Développeur : senkoo.g4l (discord) / ce compte github.
+- C'est une version BÊTA, donc n'est pas 100% sûre (surtout au niveau de la base de donnée json).
+- Ce bot n'est pas fait pour être sur plusieurs serveurs discord en même temps.
 
 ## Requirements
 - [Python](https://www.python.org) 3.10 ou plus
