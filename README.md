@@ -1,5 +1,8 @@
 # PowGames - Task Manager V. 0.0.0
 
+## Conseil
+N'utilisez pas ce bot pour le moment. Vaut mieux attendre la prochaine mise à jours (s'il y'en aura une).
+
 ## Utilitées
 Conçu pour gérer un de mes projets de développement roblox studio, ce bot a été développé pour permettre une gestion simple et efficace de plusieurs aspects dans mon projet tels que
 - La gestion des tâches.
