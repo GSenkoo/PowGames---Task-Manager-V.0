@@ -1,4 +1,5 @@
 # PowGames - Task Manager V. 0.0.0
+# ⚠
 
 ## Notes
 Ce projet est un projet à la base personnel, il était normalement fait uniquement pour la gestion de l'un de mes projets de développement de jeu roblox. Donc, cette version n'est pas faites pour être utilisé par une autre personne que moi (ps : au départ, je n'avais pas fait exprès de la mettre public).
